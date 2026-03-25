@@ -22,6 +22,7 @@
          <p> Контентик </p>
          <img src="/img/img1.jpg" alt="">
          <a href="/second"> okak </a>
+         <a href="/array"> otak </a>
         </Main>
 
         <footer>

@@ -15,6 +15,7 @@
     <h2>{{ $product->title }}</h2>    
     <p>{{ $product->price }}</p>
     <p>{{ $product->description }}</p>
+    <a href="{{ route('products.show, $product') }}">Чекап</a>
     </div>
         
     @endforeach    
